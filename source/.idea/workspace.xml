@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="source" targetName="source.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05c59a16-eb0c-4e9e-b958-e2653da5878e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/.idea/runConfigurations/OCD_source.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/.idea/source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/.mxproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/CMakeLists_template.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Inc/gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Inc/main.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Inc/stm32f4xx_hal_conf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Inc/stm32f4xx_it.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Inc/tim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Src/gpio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Src/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Src/stm32f4xx_hal_msp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Src/stm32f4xx_it.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Src/syscalls.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Src/sysmem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Src/system_stm32f4xx.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Src/tim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Core/Startup/startup_stm32f411ceux.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f411xe.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/cmsis_armcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/cmsis_armclang.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/cmsis_compiler.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/cmsis_gcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/cmsis_iccarm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/cmsis_version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_armv8mbl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_armv8mml.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_cm0.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_cm0plus.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_cm1.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_cm23.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_cm3.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_cm33.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_cm4.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_cm7.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_sc000.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/core_sc300.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/mpu_armv7.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/mpu_armv8.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/CMSIS/Include/tz_context.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/STM32F411CEUX_FLASH.ld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/STM32F411CEUX_RAM.ld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/3.19.2/CMakeASMCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/ASM.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Core/Src/gpio.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Core/Src/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Core/Src/stm32f4xx_it.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Core/Src/syscalls.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Core/Src/sysmem.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Core/Src/system_stm32f4xx.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Core/Src/tim.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Core/Startup/startup_stm32f411ceux.s.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/CMakeFiles/source.elf.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/source.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/source.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/source.elf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/source.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/cmake-build-debug/source.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/source.ioc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flightControl/source/st_nucleo_f4.cfg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2iv5QZJCHllsZezAOWRKgY19qnx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="OpenOCD Download &amp; Run.OCD source">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="source.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="source" TARGET_NAME="source.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="source" RUN_TARGET_NAME="source.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.source.elf" />
+      <item itemvalue="OpenOCD Download &amp; Run.OCD source" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05c59a16-eb0c-4e9e-b958-e2653da5878e" name="Default Changelist" comment="" />
+      <created>1720358195206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720358195206</updated>
+      <workItem from="1720358221378" duration="3068000" />
+      <workItem from="1720451088406" duration="269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
